@@ -1,0 +1,1 @@
+print('Lionel Messi once said, "You have to fight to reach your dream. You have to sacrifice and work hard for it."')
